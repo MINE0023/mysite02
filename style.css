@@ -100,3 +100,22 @@ margin-top: 32px;
   width: 100%;
   height: auto;
 }
+
+.poin h3 {
+  text-align: center;
+  margin-top: 32px;
+}
+.poin p {
+  text-align: center;
+  margin-top: 10px;
+}
+.poin div{
+  max-width: 300px;
+  margin: 0 auto;
+  width: calc(100% - 50px);
+  box-sizing: border-box;
+  padding: 32px;
+  margin-top: 32px;
+
+}
+
